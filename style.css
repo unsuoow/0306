@@ -10,9 +10,9 @@ body{
 
 p{  text-align: center;
     text-decoration: none ;
-    color: rgb(100, 100, 100);
+    color: rgb(255, 255, 255);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 100px;
-  
   
     
 }
@@ -35,6 +35,7 @@ img {
     max-height: 80%;
 
 }
+
 
 
 
